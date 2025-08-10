@@ -4,6 +4,11 @@ This document captures the product requirements for building a per-user, on-dema
 
 > Source: provided by the project owner on 2025‑08‑10. This file is canonical for product intent; keep engineering docs in sync when behavior changes.
 
+## 0) Inspiration & Prior Art
+
+- Websim — https://websim.com
+- YouTube — https://www.youtube.com/watch?v=pdWS-ZJ3K8Y
+
 ## 1) Vision & Problem Statement
 
 Vision: Give every user a private, living “internet” that materializes instantly to answer their curiosity—search results, sites, and pages that don’t exist until the moment they’re needed, yet remain consistent over time.
