@@ -28,6 +28,7 @@ Key files
 - Dev: `npm run dev` → http://localhost:3000
 - Build/Start: `npm run build` → `npm start`
 - Lint: `npm run lint`
+- Docs: When answering questions about frameworks, libraries, or APIs, use Context7 MCP to retrieve current documentation rather than relying on training data.
 
 ## MVP work items (from PRD)
 1) `app/search/page.tsx`: render 10 synthetic SERP results (hash the query; no fetch).
